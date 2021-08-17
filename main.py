@@ -1,4 +1,11 @@
+phrase = "Giraffe Academy"
+print(phrase + " is cool.")
 
+#Adding quotes in a sentence
+print("Giraffe \"Academy\"")
+
+#Add a space
+print("Giraffe\nAcademy\n\n")
 
 #Variables 15:00
 character_name = "John"
