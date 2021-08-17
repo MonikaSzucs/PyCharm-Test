@@ -1,3 +1,6 @@
+
+
+#Variables 15:00
 character_name = "John"
 character_age = "35"
 
